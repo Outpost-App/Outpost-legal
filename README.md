@@ -12,8 +12,8 @@ Public legal pages for **Outpost: Language Learning** (iOS). The app source live
 
 | Document | URL |
 |----------|-----|
-| Privacy Policy | `https://zlossing.github.io/Outpost-legal/privacy.html` |
-| Terms of Service | `https://zlossing.github.io/Outpost-legal/terms.html` |
-| Index | `https://zlossing.github.io/Outpost-legal/` |
+| Privacy Policy | `https://outpost-app.github.io/Outpost-legal/privacy.html` |
+| Terms of Service | `https://outpost-app.github.io/Outpost-legal/terms.html` |
+| Index | `https://outpost-app.github.io/Outpost-legal/` |
 
 Open links in a private browser window to confirm they load before submitting to Apple.
